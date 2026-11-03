@@ -1,0 +1,40 @@
+name: my_finn
+description: "MY FINN - gestion de mes finances personnelles"
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  local_auth: ^3.0.2
+  path_provider: ^2.1.6
+  share_plus: ^13.3.1
+  web: ^1.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/seed/
+
+  fonts:
+    - family: Manrope
+      fonts:
+        - asset: assets/fonts/Manrope_400Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Manrope_500Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Manrope_600SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Manrope_700Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Manrope_800ExtraBold.ttf
+          weight: 800
