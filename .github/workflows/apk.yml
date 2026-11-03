@@ -1,0 +1,36 @@
+name: APK Android
+
+# Fabrique l'APK à chaque envoi sur main et le publie dans "Releases".
+# Le code arrive dans un seul fichier my-finn-source.zip, décompressé d'abord.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - run: if [ -f my-finn-source.zip ]; then unzip -o -q my-finn-source.zip; fi
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+      - run: bash tool/ci_build.sh
+        env:
+          MYFINN_PASSWORD: ${{ secrets.MYFINN_PASSWORD }}
+      - uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v1.0.${{ env.BUILD }}
+          name: MY FINN v1.0.${{ env.BUILD }}
+          body: APK Android à télécharger et installer sur le téléphone (par-dessus l'ancienne version).
+          files: MY-FINN-*.apk
