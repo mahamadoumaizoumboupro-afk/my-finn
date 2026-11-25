@@ -1,0 +1,1493 @@
+{
+ "initial": {
+  "Compte Coris": 847000,
+  "Nita": 61900,
+  "Visa Nita": 1500,
+  "Amana": 4400,
+  "Cash": 332300,
+  "Bons d'essence": 50000
+ },
+ "transactions": [
+  {
+   "date": "2026-09-01",
+   "label": "Crédit de recharge Zamani",
+   "amount": 3100,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-01",
+   "label": "Doukounou",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-01",
+   "label": "Donation Aïda",
+   "amount": 11000,
+   "account": "Cash",
+   "beneficiary": "personne",
+   "person": "Aïda",
+   "nature": "donation",
+   "category": "Dons & donations"
+  },
+  {
+   "date": "2026-09-01",
+   "label": "Donation Balki Rouafi",
+   "amount": 13100,
+   "account": "Cash",
+   "beneficiary": "personne",
+   "person": "Balki Rouafi",
+   "nature": "donation",
+   "category": "Dons & donations"
+  },
+  {
+   "date": "2026-09-01",
+   "label": "Donation Sodja et Razak",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "personne",
+   "person": "Sodja et Razak",
+   "nature": "donation",
+   "category": "Dons & donations"
+  },
+  {
+   "date": "2026-09-01",
+   "label": "Doukounou, donation pour Mariamou et Fadila",
+   "amount": 4500,
+   "account": "Cash",
+   "beneficiary": "personne",
+   "person": "Mariamou et Fadila",
+   "nature": "donation",
+   "category": "Dons & donations"
+  },
+  {
+   "date": "2026-09-01",
+   "label": "Doukounou",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-01",
+   "label": "Cadeau Nado",
+   "amount": 23000,
+   "account": "Cash",
+   "beneficiary": "personne",
+   "person": "Nado",
+   "nature": "cadeau",
+   "category": "Cadeaux"
+  },
+  {
+   "date": "2026-09-01",
+   "label": "Abonnement Claude",
+   "amount": 12000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Abonnements"
+  },
+  {
+   "date": "2026-09-01",
+   "label": "Recharge Zamani",
+   "amount": 3100,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-01",
+   "label": "Le Blanc, produit",
+   "amount": 10000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Soins & produits"
+  },
+  {
+   "date": "2026-09-01",
+   "label": "Donation Issa Seino",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "personne",
+   "person": "Issa Seino",
+   "nature": "donation",
+   "category": "Dons & donations"
+  },
+  {
+   "date": "2026-09-01",
+   "label": "Donation équipe Abib Digit, bouffe restau jumma",
+   "amount": 10000,
+   "account": "Cash",
+   "beneficiary": "personne",
+   "person": "Équipe Abib Digit",
+   "nature": "donation",
+   "category": "Dons & donations"
+  },
+  {
+   "date": "2026-09-01",
+   "label": "Recharge Orange Nado",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "personne",
+   "person": "Nado",
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-02",
+   "label": "Recharge Zamani",
+   "amount": 400,
+   "account": "Amana",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-02",
+   "label": "Pain",
+   "amount": 250,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-02",
+   "label": "Bombe Chocolat",
+   "amount": 4600,
+   "account": "Nita",
+   "beneficiary": "personne",
+   "person": "Aicha",
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-02",
+   "label": "Parfum avec Halima ménage",
+   "amount": 4000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Soins & produits"
+  },
+  {
+   "date": "2026-09-02",
+   "label": "Kakandadi",
+   "amount": 500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-02",
+   "label": "Doukounou",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-02",
+   "label": "Poissons chez Madley",
+   "amount": 1500,
+   "account": "Cash",
+   "beneficiary": "personne",
+   "person": "Aida",
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-02",
+   "label": "Pain",
+   "amount": 250,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-02",
+   "label": "Le blanc produit",
+   "amount": 5100,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Soins & produits"
+  },
+  {
+   "date": "2026-09-02",
+   "label": "Donation Team cotisation",
+   "amount": 5100,
+   "account": "Nita",
+   "beneficiary": "personne",
+   "person": "Team",
+   "nature": "donation",
+   "category": "Dons & donations"
+  },
+  {
+   "date": "2026-09-02",
+   "label": "Greffage puce Moov",
+   "amount": 500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-02",
+   "label": "Bouffe doundou",
+   "amount": 500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-03",
+   "label": "Lessive par Djamila",
+   "amount": 5000,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Entretien & lessive"
+  },
+  {
+   "date": "2026-09-03",
+   "label": "Cadeau pour Djamila",
+   "amount": 5300,
+   "account": "Nita",
+   "beneficiary": "personne",
+   "person": "Djamila",
+   "nature": "cadeau",
+   "category": "Cadeaux"
+  },
+  {
+   "date": "2026-09-03",
+   "label": "Pain",
+   "amount": 250,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-03",
+   "label": "Fritte et brochette",
+   "amount": 1700,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-04",
+   "label": "Solani",
+   "amount": 500,
+   "account": "Cash",
+   "beneficiary": "personne",
+   "person": "Samir",
+   "nature": "donation",
+   "category": "Dons & donations"
+  },
+  {
+   "date": "2026-09-04",
+   "label": "Pain saucisse",
+   "amount": 1000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-04",
+   "label": "Thé + brosse",
+   "amount": 500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Soins & produits"
+  },
+  {
+   "date": "2026-09-04",
+   "label": "Recharge Zamani",
+   "amount": 2800,
+   "account": "Amana",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-04",
+   "label": "Essence",
+   "amount": 1000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Transport"
+  },
+  {
+   "date": "2026-09-05",
+   "label": "Pain",
+   "amount": 250,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-05",
+   "label": "Produit",
+   "amount": 8000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Soins & produits"
+  },
+  {
+   "date": "2026-09-06",
+   "label": "Frais de retrait Nita",
+   "amount": 300,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Frais bancaires"
+  },
+  {
+   "date": "2026-09-06",
+   "label": "Poulet",
+   "amount": 3500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-06",
+   "label": "Don à une passante",
+   "amount": 500,
+   "account": "Cash",
+   "beneficiary": "personne",
+   "person": "Passante",
+   "nature": "donation",
+   "category": "Dons & donations"
+  },
+  {
+   "date": "2026-09-06",
+   "label": "Essence",
+   "amount": 2000,
+   "account": "Bons d'essence",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Transport"
+  },
+  {
+   "date": "2026-09-06",
+   "label": "Degue + chocolat",
+   "amount": 1200,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-07",
+   "label": "Pain + charbon + thé",
+   "amount": 900,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Maison & équipement"
+  },
+  {
+   "date": "2026-09-07",
+   "label": "Recharge Airtel Mabrouka, pour mes besoins",
+   "amount": 2000,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-07",
+   "label": "Coiffure",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Soins & produits"
+  },
+  {
+   "date": "2026-09-07",
+   "label": "Coiffeur",
+   "amount": 3000,
+   "account": "Cash",
+   "beneficiary": "personne",
+   "person": "Mon coiffeur",
+   "nature": "donation",
+   "category": "Dons & donations"
+  },
+  {
+   "date": "2026-09-07",
+   "label": "Sirage chaussure",
+   "amount": 700,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Entretien & lessive"
+  },
+  {
+   "date": "2026-09-07",
+   "label": "Sandwich",
+   "amount": 1000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-07",
+   "label": "Polo",
+   "amount": 5000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Habits"
+  },
+  {
+   "date": "2026-09-08",
+   "label": "Recharge Airtel",
+   "amount": 1000,
+   "account": "Amana",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-08",
+   "label": "Dégue",
+   "amount": 1000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-08",
+   "label": "Fritte brochette",
+   "amount": 1500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-08",
+   "label": "Produit Gaida",
+   "amount": 2300,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Soins & produits"
+  },
+  {
+   "date": "2026-09-08",
+   "label": "Ventilateur chargeable",
+   "amount": 35700,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Maison & équipement"
+  },
+  {
+   "date": "2026-09-09",
+   "label": "Fritte viande maison",
+   "amount": 5800,
+   "account": "Cash",
+   "beneficiary": "maison",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-09",
+   "label": "Pain matin + massa",
+   "amount": 650,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-10",
+   "label": "Recharge Zamani",
+   "amount": 3000,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-10",
+   "label": "Pain",
+   "amount": 250,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-10",
+   "label": "Fritte + brochette",
+   "amount": 1500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-10",
+   "label": "Greffage puce Moov + commission Razak",
+   "amount": 2500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-10",
+   "label": "Renouvellement ARF",
+   "amount": 12300,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Taxes & frais pro"
+  },
+  {
+   "date": "2026-09-10",
+   "label": "Dépenses autres non identifiées",
+   "amount": 12000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Divers"
+  },
+  {
+   "date": "2026-09-11",
+   "label": "Donation",
+   "amount": 5300,
+   "account": "Nita",
+   "beneficiary": "personne",
+   "person": "Raïssa",
+   "nature": "donation",
+   "category": "Dons & donations"
+  },
+  {
+   "date": "2026-09-11",
+   "label": "Pain",
+   "amount": 250,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-11",
+   "label": "Pain saucisse",
+   "amount": 1000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-11",
+   "label": "Donation",
+   "amount": 1000,
+   "account": "Cash",
+   "beneficiary": "personne",
+   "person": "Aida",
+   "nature": "donation",
+   "category": "Dons & donations"
+  },
+  {
+   "date": "2026-09-12",
+   "label": "Maïs + frais de dépôt",
+   "amount": 550,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-12",
+   "label": "Recharge Airtel",
+   "amount": 500,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-13",
+   "label": "Recharge Zamani",
+   "amount": 3000,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-13",
+   "label": "Petit déjeuner + thé",
+   "amount": 1500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-13",
+   "label": "Blanchisseur",
+   "amount": 2400,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Entretien & lessive"
+  },
+  {
+   "date": "2026-09-13",
+   "label": "Pain + lait",
+   "amount": 1800,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-13",
+   "label": "Brochettes déjeuner",
+   "amount": 1500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-13",
+   "label": "Essence",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Transport"
+  },
+  {
+   "date": "2026-09-13",
+   "label": "Recharge Airtel",
+   "amount": 500,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-13",
+   "label": "Claquette avec Man",
+   "amount": 3500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Habits"
+  },
+  {
+   "date": "2026-09-13",
+   "label": "Solani + thé",
+   "amount": 500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-14",
+   "label": "Produit avec Hamissou",
+   "amount": 10500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Soins & produits"
+  },
+  {
+   "date": "2026-09-14",
+   "label": "Remboursement emprunt personnel · privé",
+   "amount": 30000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Remboursement d'emprunt"
+  },
+  {
+   "date": "2026-09-14",
+   "label": "Produit avec le blanc",
+   "amount": 10000,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Soins & produits"
+  },
+  {
+   "date": "2026-09-15",
+   "label": "Pain + brochette",
+   "amount": 1500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-15",
+   "label": "Crêpes + jus + bonbon",
+   "amount": 3000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-15",
+   "label": "Doukounou",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-16",
+   "label": "Pain + brochette + jus",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-17",
+   "label": "Pain + brochette",
+   "amount": 1500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-17",
+   "label": "Divers",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Divers"
+  },
+  {
+   "date": "2026-09-17",
+   "label": "Kilichi",
+   "amount": 1000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-17",
+   "label": "Pain + brochette",
+   "amount": 1500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-17",
+   "label": "Ananas + thé",
+   "amount": 500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-18",
+   "label": "Recharge Airtel",
+   "amount": 1000,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-18",
+   "label": "Examens projet mariage Nado",
+   "amount": 10000,
+   "account": "Nita",
+   "beneficiary": "personne",
+   "person": "Nado",
+   "nature": "pour",
+   "category": "Éducation"
+  },
+  {
+   "date": "2026-09-18",
+   "label": "Lait + cake",
+   "amount": 700,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-18",
+   "label": "Recharge Airtel",
+   "amount": 4000,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-18",
+   "label": "Coiffure",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Soins & produits"
+  },
+  {
+   "date": "2026-09-18",
+   "label": "Pain + saucisse",
+   "amount": 1000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-19",
+   "label": "Lavage bonnet",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Entretien & lessive"
+  },
+  {
+   "date": "2026-09-19",
+   "label": "Couture (part Nita)",
+   "amount": 4000,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Habits"
+  },
+  {
+   "date": "2026-09-19",
+   "label": "Couture (part cash)",
+   "amount": 20000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Habits"
+  },
+  {
+   "date": "2026-09-19",
+   "label": "Tontine mensuelle",
+   "amount": 25000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Épargne & tontine"
+  },
+  {
+   "date": "2026-09-19",
+   "label": "Cadeau Maman",
+   "amount": 5000,
+   "account": "Cash",
+   "beneficiary": "personne",
+   "person": "Maman",
+   "nature": "cadeau",
+   "category": "Cadeaux"
+  },
+  {
+   "date": "2026-09-19",
+   "label": "Réparation moto",
+   "amount": 1000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Transport"
+  },
+  {
+   "date": "2026-09-20",
+   "label": "Doukounou",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-20",
+   "label": "Fruits pour la maison",
+   "amount": 3000,
+   "account": "Cash",
+   "beneficiary": "maison",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-20",
+   "label": "2e versement niveau 1 Makaranta",
+   "amount": 6000,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Éducation"
+  },
+  {
+   "date": "2026-09-20",
+   "label": "Petit déjeuner pain + poisson",
+   "amount": 1000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-20",
+   "label": "Thé",
+   "amount": 500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-20",
+   "label": "Soudure chaise",
+   "amount": 500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Maison & équipement"
+  },
+  {
+   "date": "2026-09-20",
+   "label": "Viande",
+   "amount": 1000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-21",
+   "label": "Recharge Airtel",
+   "amount": 4100,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-21",
+   "label": "Pain brochette",
+   "amount": 1500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-21",
+   "label": "Massa + thé",
+   "amount": 500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-23",
+   "label": "Petit déjeuner + divers",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-23",
+   "label": "Essence",
+   "amount": 2000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Transport"
+  },
+  {
+   "date": "2026-09-23",
+   "label": "Pain saucisse",
+   "amount": 1000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-25",
+   "label": "Poulet + frites",
+   "amount": 4500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-25",
+   "label": "Frites brochette",
+   "amount": 1500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-25",
+   "label": "Amuse-gueule pour la maison",
+   "amount": 2500,
+   "account": "Cash",
+   "beneficiary": "maison",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-25",
+   "label": "Ravitaillement vivres pour la maison",
+   "amount": 50000,
+   "account": "Compte Coris",
+   "beneficiary": "maison",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-25",
+   "label": "Pain viande",
+   "amount": 1400,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-25",
+   "label": "Lessive",
+   "amount": 5000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Entretien & lessive"
+  },
+  {
+   "date": "2026-09-25",
+   "label": "Ajout ravitaillement",
+   "amount": 10000,
+   "account": "Cash",
+   "beneficiary": "maison",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-25",
+   "label": "Recharge Airtel",
+   "amount": 3000,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  },
+  {
+   "date": "2026-09-28",
+   "label": "Boubou",
+   "amount": 9000,
+   "account": "Nita",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Habits"
+  },
+  {
+   "date": "2026-09-28",
+   "label": "Eau, hors-d'œuvre, parking",
+   "amount": 2500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Transport"
+  },
+  {
+   "date": "2026-09-28",
+   "label": "Thé",
+   "amount": 1500,
+   "account": "Cash",
+   "beneficiary": "personne",
+   "person": "Solani",
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-28",
+   "label": "Produit avec Hamissou",
+   "amount": 10000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Soins & produits"
+  },
+  {
+   "date": "2026-09-30",
+   "label": "Amuse-gueule",
+   "amount": 3000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-30",
+   "label": "Ampoule",
+   "amount": 1000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Maison & équipement"
+  },
+  {
+   "date": "2026-09-30",
+   "label": "Blanchisseur",
+   "amount": 1000,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Entretien & lessive"
+  },
+  {
+   "date": "2026-09-30",
+   "label": "Brochette",
+   "amount": 1500,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-30",
+   "label": "Frites brochette",
+   "amount": 1200,
+   "account": "Cash",
+   "beneficiary": "moi",
+   "person": null,
+   "nature": "pour",
+   "category": "Alimentation"
+  },
+  {
+   "date": "2026-09-30",
+   "label": "Crédit",
+   "amount": 3000,
+   "account": "Nita",
+   "beneficiary": "personne",
+   "person": "Gabril",
+   "nature": "pour",
+   "category": "Recharge & téléphone"
+  }
+ ],
+ "incomes": [
+  {
+   "date": "2026-09-03",
+   "label": "Gombo branding Bel Œuf (164.000 brut - 5 % ISB)",
+   "account": "Nita",
+   "amount": 155800,
+   "category": "Prestations & gombo"
+  },
+  {
+   "date": "2026-09-08",
+   "label": "Gombo contenu d'août",
+   "account": "Nita",
+   "amount": 120000,
+   "category": "Prestations & gombo"
+  },
+  {
+   "date": "2026-09-14",
+   "label": "Salaire Abib Digit d'août",
+   "account": "Compte Coris",
+   "amount": 130000,
+   "category": "Salaire"
+  },
+  {
+   "date": "2026-09-23",
+   "label": "Salaire BCR septembre (505.000 - taxe 25.250)",
+   "account": "Compte Coris",
+   "amount": 479750,
+   "category": "Salaire"
+  },
+  {
+   "date": "2026-09-30",
+   "label": "Gombo, ajout pour la production de contenu",
+   "account": "Cash",
+   "amount": 20000,
+   "category": "Prestations & gombo"
+  }
+ ],
+ "transfers": [
+  {
+   "date": "2026-09-06",
+   "frm": "Nita",
+   "to": "Cash",
+   "amount": 30000,
+   "fee": 0,
+   "label": "Retrait Nita vers cash"
+  },
+  {
+   "date": "2026-09-30",
+   "frm": "Compte Coris",
+   "to": "Cash",
+   "amount": 50000,
+   "fee": 0,
+   "label": "Retrait Coris vers cash"
+  }
+ ],
+ "debts": [
+  {
+   "date": "2026-09-01",
+   "person": "Abib",
+   "amount": 3500,
+   "account": "Cash",
+   "label": "Prêt gasoil Abib remboursé le 14/09"
+  },
+  {
+   "date": "2026-09-01",
+   "person": "Leyla",
+   "amount": 3000,
+   "account": "Cash",
+   "label": "Prêt Leyla, bouffe restau jumma remboursé le 14/09"
+  },
+  {
+   "date": "2026-09-01",
+   "person": "Raïssa",
+   "amount": 5000,
+   "account": "Cash",
+   "label": "Prêt Raïssa remboursé le 14/09"
+  },
+  {
+   "date": "2026-09-17",
+   "person": "Souff",
+   "amount": 10000,
+   "account": "Nita",
+   "label": "Prêt Souff"
+  },
+  {
+   "date": "2026-09-19",
+   "person": "Tantie Rakia",
+   "amount": 20000,
+   "account": "Cash",
+   "label": "Prêt Tantie Rakia"
+  },
+  {
+   "date": "2026-09-21",
+   "person": "Almou",
+   "amount": 100000,
+   "account": "Nita",
+   "label": "Prêt à Almou"
+  },
+  {
+   "date": "2026-09-30",
+   "person": "Ibou",
+   "amount": 20000,
+   "account": "Cash",
+   "label": "Prêt à Ibou · achat box wifi Airtel"
+  }
+ ],
+ "payments": [
+  {
+   "date": "2026-09-14",
+   "person": "Raïssa",
+   "amount": 5000,
+   "account": "Cash"
+  },
+  {
+   "date": "2026-09-14",
+   "person": "Leyla",
+   "amount": 3000,
+   "account": "Nita"
+  },
+  {
+   "date": "2026-09-14",
+   "person": "Abib",
+   "amount": 3500,
+   "account": "Nita"
+  },
+  {
+   "date": "2026-09-20",
+   "person": "Souff",
+   "amount": 10000,
+   "account": "Nita"
+  },
+  {
+   "date": "2026-09-30",
+   "person": "Tantie Rakia",
+   "amount": 20000,
+   "account": "Cash"
+  }
+ ],
+ "extraDebts": [
+  {
+   "date": "2026-09-01",
+   "person": "Créances antérieures (à détailler)",
+   "amount": 1280500,
+   "account": null,
+   "label": "Solde des créances au 30/09 hors prêts de septembre"
+  },
+  {
+   "date": "2026-09-30",
+   "person": "Coris (retrait en litige)",
+   "amount": 10000,
+   "account": null,
+   "label": "Retrait Coris non encaissé, en litige"
+  },
+  {
+   "date": "2026-09-30",
+   "person": "Reliquats de mission",
+   "amount": 40000,
+   "account": null,
+   "label": "En attente de versement : deux reliquats de mission"
+  }
+ ]
+}
